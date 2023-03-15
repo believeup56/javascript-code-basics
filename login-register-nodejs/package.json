@@ -1,0 +1,19 @@
+{
+  "name": "login-register-nodejs",
+  "version": "1.0.0",
+  "description": "npm init\r npm i express express-session body-parser req-flash mysql ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "mysql": "^2.18.1",
+    "req-flash": "^0.0.3"
+  }
+}
